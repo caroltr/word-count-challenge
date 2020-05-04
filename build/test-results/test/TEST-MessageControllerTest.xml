@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MessageControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-05-04T01:34:54" hostname="CAROL-6300" time="0.05">
+  <properties/>
+  <testcase name="When give a list of messages containing punctuation, Expect a map the count of each word in all messages ignoring case and punctuation" classname="MessageControllerTest" time="0.048"/>
+  <testcase name="When give a list of messages containing numbers, Expect a map the count of each word in all messages" classname="MessageControllerTest" time="0.001"/>
+  <testcase name="When give an empty list of messages, Expect an empty map as result" classname="MessageControllerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
